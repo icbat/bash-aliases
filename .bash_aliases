@@ -1,5 +1,5 @@
 alias gs='git status'
-alias server='python -m SimpleHTTPServer'
+alias server='python -m http.server'
 
 # git-specific aliases
 git config --global alias.co checkout
